@@ -1,0 +1,9 @@
+.vscode
+
+virtualenv.sh
+.ipynb_checkpoints
+
+notebooks/data
+data_raw/
+outputs/
+
