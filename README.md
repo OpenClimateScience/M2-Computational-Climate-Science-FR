@@ -18,8 +18,7 @@ Le deuxième module de notre [curriculum de science climatique ouverte](https://
 2. [Travailler avec des données climatiques maillées](https://github.com/OpenClimateScience/M2-Computational-Climate-Science-FR/blob/main/notebooks/M2.2%20-%20Travailler%20avec%20des%20donn%C3%A9es%20climatiques%20grindt%C3%A9es.ipynb)  
 3. [Indices climatiques et de sécheresse](https://github.com/OpenClimateScience/M2-Computational-Climate-Science-FR/blob/main/notebooks/M2.3%20-%20Indices%20climatiques%20et%20de%20s%C3%A9cheresse.ipynb)  
 4. [Traiter des séries climatiques longues en parallèle](https://github.com/OpenClimateScience/M2-Computational-Climate-Science-FR/blob/main/notebooks/M2.4%20-%20Traitement%20simultan%C3%A9%20des%20enregistrements%20de%20donn%C3%A9es%20climatiques%20de%20longue%20dur%C3%A9e.ipynb)  
-5. [Créer une analyse climatique reproductible](https://github.com/OpenClimateScience/M2-Computational-Climate-Science/blob/main/notebooks/05_Creating_a_Reproducible_Climate_Data_Analysis.ipynb]https://github.com/OpenClimateScience/M2-Computational-Climate-Science-FR/blob/main/notebooks/M2.5%20-%20Cr%C3%A9ation%20d'une%20analyse%20reproductible%20des%20donn%C3%A9es%20climatiques.ipynb)
-
+5. [Créer une analyse climatique reproductible](https://github.com/OpenClimateScience/M2-Computational-Climate-Science-FR/blob/main/notebooks/M2.5%20-%20Cr%C3%A9ation%20d'une%20analyse%20reproductible%20des%20donn%C3%A9es%20climatiques.ipynb) 
 ## Démarrage
 
 [Consultez notre guide d'installation ici.](https://github.com/OpenClimateScience/M1-Open-Climate-Data/blob/main/HOW_TO_INSTALL.md)
