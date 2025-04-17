@@ -14,7 +14,7 @@ Le deuxième module de notre [curriculum de science climatique ouverte](https://
 
 ## Contenu
 
-1. [Gérer les dépendances logicielles](https://github.com/OpenClimateScience/M2-Computational-Climate-Science/blob/main/notebooks/01_Managing_Software_Dependencies.ipynb)  
+1. [Gérer les dépendances logicielles](https://github.com/OpenClimateScience/M2-Computational-Climate-Science-FR/blob/main/notebooks/M2.1%20-%20Gestion%20des%20d%C3%A9pendances%20logicielles.ipynb)  
 2. [Travailler avec des données climatiques maillées](https://github.com/OpenClimateScience/M2-Computational-Climate-Science/blob/main/notebooks/02_Working_with_Gridded_Climate_Data.ipynb)  
 3. [Indices climatiques et de sécheresse](https://github.com/OpenClimateScience/M2-Computational-Climate-Science/blob/main/notebooks/03_Climate_and_Drought_Indices.ipynb)  
 4. [Traiter des séries climatiques longues en parallèle](https://github.com/OpenClimateScience/M2-Computational-Climate-Science/blob/main/notebooks/04_Processing_Long_Climate_Data_Records.ipynb)  
