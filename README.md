@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/742518754.svg)](https://zenodo.org/doi/10.5281/zenodo.13820296)
+[![DOI](https://zenodo.org/badge/938928059.svg)](https://doi.org/10.5281/zenodo.15270602)
 
 # M2 : Science Climatique Computationnelle
 
